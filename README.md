@@ -1,1 +1,1 @@
-# lms-discord-bot
+bot-lms-discord
